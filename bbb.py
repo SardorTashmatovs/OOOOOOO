@@ -50,3 +50,9 @@ import requests
 # aa = requests.post('https://randomuser.me/api/', params=params)
 # print(aa.status_code)
 
+# /
+
+
+
+
+# blyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
